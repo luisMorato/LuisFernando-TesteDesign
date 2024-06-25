@@ -30,13 +30,11 @@
     transition: .4s;
 }
 
-#lias_231116 .calculadora-digital-2__header, .lias_231116 .calculadora-digital-2__header {
+#lias_231116 .calculadora-digital-2__header, .lias_231116 .calculadora-digital-2__header,
+#lias_231116 .calculadora-digital-2__content .btn-site, .lias_231116 .calculadora-digital-2__content .btn-site  {
     background-color: #426170 !important;
 }
 
-#lias_231116 .calculadora-digital-2__content .btn-site, .lias_231116 .calculadora-digital-2__content .btn-site {
-    background-color: #426170 !important;
-}
 
 #lias_231116 .calculadora-digital-2__content .btn-site, .lias_231116 .calculadora-digital-2__content .btn-site:hover {
     background-color: #557d91 !important;
