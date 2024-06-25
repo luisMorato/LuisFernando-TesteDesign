@@ -1,0 +1,66 @@
+#topLogo{
+    width: 80px;
+    height: 60px;
+}
+
+.destaque-titulo h2, span{
+    font-weight: bold !important;
+    font-family: "Roboto" !important;
+}
+
+.widget-title{
+    color: #FFF !important;
+    font-weight: bold !important;
+    font-family: "Roboto" !important;
+}
+
+#destaque-lancamento #carouselLancamento .destaque-emp {
+    background-color: #344e5c !important;
+}
+
+#lias_201390 #carouselLancamento .destaque-imovel .destaque-emp-info .mais-detalhes-lancamento .destaque-emp-btn, .lias_201390 #carouselLancamento .destaque-imovel .destaque-emp-info .mais-detalhes-lancamento .destaque-emp-btn,
+.lias_201394 .widgets-div.widget-noticias .card .card-leia-mais,
+.widgets-div.widget-cliente .col-sm-4.links-depoimentos .ver-todos-destaque,
+#ouibounce-modal .modal-body input[type=submit] {
+    background-color: #283e49 !important;
+}
+
+#lias_201390 #carouselLancamento .destaque-imovel .destaque-emp-info .mais-detalhes-lancamento .destaque-emp-btn, .lias_201390 #carouselLancamento .destaque-imovel .destaque-emp-info .mais-detalhes-lancamento .destaque-emp-btn:hover {
+    transform: translateY(-8px);
+    transition: .4s;
+}
+
+#lias_231116 .calculadora-digital-2__header, .lias_231116 .calculadora-digital-2__header {
+    background-color: #426170 !important;
+}
+
+#lias_231116 .calculadora-digital-2__content .btn-site, .lias_231116 .calculadora-digital-2__content .btn-site {
+    background-color: #426170 !important;
+}
+
+#lias_231116 .calculadora-digital-2__content .btn-site, .lias_231116 .calculadora-digital-2__content .btn-site:hover {
+    background-color: #557d91 !important;
+}
+
+#lias_201394 .widgets-div.widget-noticias .card, .lias_201394 .widgets-div.widget-noticias .card:not(:last-child) {
+    border-right: 1px solid #FFF !important;
+}
+
+#lias_201394 .widgets-div.widget-noticias .card, .lias_201394 .widgets-div.widget-noticias .card h5, a{
+    color: #FFF !important;
+}
+
+.lias_201394 {
+    padding: 0 !important;
+    background-color: #426170 !important;
+}
+
+.lias_201396 .mais-buscados #wrapper-venda-aluguel .cidade a,
+#mais-buscados-3 .ver-todos-mais-buscados a {
+    color: #000 !important;
+}
+
+#footerLogo {
+    width: 120px !important;
+    height: 80px;
+}
